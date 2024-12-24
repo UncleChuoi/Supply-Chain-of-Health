@@ -76,18 +76,32 @@ Dtype:
 
 Strategy:
 1. Optimize Suppliers:
+   
 •	Supplier Selection: Choose suppliers with high value goods and the shortest delivery times to reduce costs and increase efficiency.
+
 •	Negotiate Terms: Improve contract terms with high-performing suppliers.
+
 2. Transportation Management:
+
 •	Analyze Freight Costs: Optimize transportation methods based on costs and delivery times.
+
 •	Integrate Technology: Use shipment tracking software to improve the delivery process.
+
 3. Demand Forecasting:
+
 •	Analyze Consumption Trends: Use data to forecast seasonal demand and adjust production plans accordingly.
+
 •	Increase Inventory for Hot Products: Ensure adequate stock for best-selling products.
+
 4. Improve Delivery Processes:
+   
 •	Reduce Delivery Times: Analyze data to find ways to shorten the time from shipment to delivery.
+
 •	Train Staff: Ensure the logistics team has the skills to handle goods quickly and efficiently.
+
 5. Monitor and Evaluate Performance:
+   
 •	Establish KPIs: Track supplier performance and delivery processes through key performance indicators (KPIs).
+
 •	Conduct Periodic Analysis: Perform regular evaluations to adjust strategies in line with market fluctuations.
 
